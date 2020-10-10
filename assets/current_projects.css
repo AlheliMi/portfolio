@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Roboto', sans-serif!important;
+    color:rgb(82, 82, 82)!important;
+}
+.col-sm-8 {
+    padding-top: 100px!important;
+}
+
+.navbar { 
+    width: 100%; 
+    background-color: rgb(231, 171, 180)!important
+} 
+
+.nav-link {
+    font-family:'Open Sans', sans-serif!important;
+    font-size: 30px!important;
+}
+
+.nav-link .disabled {
+    font-family: 'Roboto', sans-serif!important;
+    font-weight: bold!important;
+}
+
+.carousel-item {  
+    font-family: 'Roboto', sans-serif!important;
+    color:rgb(82, 82, 82)!important;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card-footer {
+    background-color: rgb(231, 171, 180)!important;
+    font-family:'Open Sans', sans-serif!important;
+    font-size: 18px!important;
+    color: rgb(88, 87, 87);
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+  }
